@@ -1,0 +1,17 @@
+[
+  { 
+    id: "", 
+    nome: '', 
+    img: '', 
+    ingredientes: {"Massa":[
+ ""
+]}, 
+    utensilios: [
+ ""
+    ], 
+    passos: {"Passos":[
+ ""
+    ]}, 
+    videoUrl: 'https://raw.githubusercontent.com/jerog1971/projeto-mobile/main/videos/chocolate.mp4?raw=true'
+  }
+]
