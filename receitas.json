@@ -44,6 +44,6 @@
     "utensilios": ["1 colher de medida", "1 liquidificador", "1 panela para a calda", "1 forma de pudim", "1 assadeira para banho-maria", "1 forno", "1 geladeira"],
     "passos": {"Massa": ["1. Bata no liquidificador os ovos, o leite condensado, o creme de leite e o leite.", "2. Despeje na forma.", "3. Asse em banho-maria por cerca de 1 hora.", "4. Leve á geladeira antes de desenformar."],
               "Cobertura": ["1. Derreta o açucar na panela até formar um caramelo.", "2. Acrescente a água com cuidado e misture.", "3. Coloque a calda na forma de pudim."]},
-    "videoUrl": "https://github.com/pedrojoinha2/3_D_ds_proverbios/blob/main/videos/pudim.mp4?raw=true"
+    "videoUrl": "https://raw.githubusercontent.com/pedrojoinha2/3_D_ds_proverbios/blob/main/videos/pudim.mp4?raw=true"
   },
 ]
